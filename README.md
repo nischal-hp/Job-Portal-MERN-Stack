@@ -1,6 +1,6 @@
 # job-portal-mern-stack
 ## About:
-A Full Stack Job Portal application using MERN Stack along with Material-UI, Cookie.
+A Full Stack Job Portal application using MERN Stack along with material-UI, cookie, datagrid, formik-yup.
 
 ## Steps to run the app: 
 * Clone the repo.
